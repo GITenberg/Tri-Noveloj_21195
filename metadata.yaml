@@ -1,0 +1,37 @@
+_repo: Tri-Noveloj_21195
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Grobe, Edwin
+    birthdate: 1927
+    gutenberg_agent_id: '7369'
+    url: http://www.gutenberg.org/2009/agents/7369
+    wikipedia: http://eo.wikipedia.org/wiki/Edwin_GROBE
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Irving, Washington
+    alias: Crayon, Geoffrey
+    birthdate: 1783
+    deathdate: 1859
+    gutenberg_agent_id: '34'
+    url: http://www.gutenberg.org/2009/agents/34
+    wikipedia: http://en.wikipedia.org/wiki/Washington_Irving
+description: ''
+gutenberg_bookshelf: Esperanto
+gutenberg_issued: '2007-04-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21195'
+language: eo
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American fiction -- 19th century'
+tableOfContents: Ripo Van-Vinklo -- Al la Leganto -- Aventuro de la Germana Studento
+title: Tri Noveloj
+url: http://www.gutenberg.org/ebooks/21195
