@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34
     wikipedia: http://en.wikipedia.org/wiki/Washington_Irving
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21195#Tri-Noveloj
 gutenberg_bookshelf: Esperanto
 gutenberg_issued: '2007-04-20'
 gutenberg_type: Text
